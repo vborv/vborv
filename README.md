@@ -2,10 +2,10 @@
 
 <h4>About me</h4>
 
-I am a student on my journey to becoming a Full Stack Developer, with a strong interest in Artificial Intelligence. Currently, I'm learning HTML, CSS, and JavaScript, and I'm eager to expand my knowledge in both frontend and backend development.
+I am a self-taught student on my journey to becoming a Full Stack Developer, with a strong interest in Artificial Intelligence. I am also interested in and have knowledge of software testing. I'm constantly learning, trying out new technologies, and improving my skills.
 
 - I’m currently learning:
-  - HTML y CSS
+  - CSS
   - JavaScript
 - I’m looking forward to collaborating on open-source projects.
 - Ask me anything! I'm happy to help if it's something I know. 😉
