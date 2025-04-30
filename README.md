@@ -5,7 +5,7 @@
 I am a self-taught student on my journey to becoming a Full Stack Developer, with a strong interest in Artificial Intelligence. I am also interested in and have knowledge of software testing. I'm constantly learning, trying out new technologies, and improving my skills.
 
 - I’m currently learning:
-  - CSS
+  - Scratch
   - JavaScript
 - I’m looking forward to collaborating on open-source projects.
 - Ask me anything! I'm happy to help if it's something I know. 😉
