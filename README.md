@@ -5,7 +5,7 @@
 I am a self-taught student on my journey to becoming a Full Stack Developer, with a strong interest in Artificial Intelligence. I am also interested in and have knowledge of software testing. I'm constantly learning, trying out new technologies, and improving my skills.
 
 - I’m currently learning:
-  - Scratch
+  - C
   - JavaScript
 - I’m looking forward to collaborating on open-source projects.
 - Ask me anything! I'm happy to help if it's something I know. 😉
@@ -18,6 +18,7 @@ I am a self-taught student on my journey to becoming a Full Stack Developer, wit
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 </span>
 
 
