@@ -5,8 +5,8 @@
 I am a self-taught student on my journey to becoming a Full Stack Developer, with a strong interest in Artificial Intelligence. I am also interested in and have knowledge of software testing. I'm constantly learning, trying out new technologies, and improving my skills.
 
 - I’m currently learning:
-  - Python
-  - JavaScript
+  - React
+  - TypeScript
 - I’m looking forward to collaborating on open-source projects.
 - Ask me anything! I'm happy to help if it's something I know. 😉
 - Outside of tech, I love reading, painting, and drawing. I also enjoy discovering new ideas and perspectives through books, art, and technology.
