@@ -10,6 +10,7 @@ I'm a QA Automation specialist with a growing passion for software development. 
 💬 Ask me anything! Happy to help if it's something I know 😉
 🎨 Outside of tech: I love reading, painting, and drawing — always discovering new ideas through books, art, and technology
 
+
 ## My Skills Include
 
 <span> 
