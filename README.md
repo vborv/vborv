@@ -4,11 +4,11 @@
 
 I'm a QA Automation specialist with a growing passion for software development. Self-taught and always curious, I enjoy exploring new technologies and continuously improving my skills — whether it's on the technical side or beyond.
 
-🔍 Currently working in QA Automation
-🤖 Interested in Artificial Intelligence
-🤝 Looking forward to collaborating on open-source projects
-💬 Ask me anything! Happy to help if it's something I know 😉
-🎨 Outside of tech: I love reading, painting, and drawing — always discovering new ideas through books, art, and technology
+- 🔍 Currently working in QA Automation
+- 🤖 Interested in Artificial Intelligence
+- 🤝 Looking forward to collaborating on open-source projects
+- 💬 Ask me anything! Happy to help if it's something I know 😉
+- 🎨 Outside of tech: I love reading, painting, and drawing — always discovering new ideas through books, art, and technology
 
 
 ## My Skills Include
