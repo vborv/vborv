@@ -2,14 +2,13 @@
 
 <h4>About me</h4>
 
-I am a self-taught student on my journey to becoming a Full Stack Developer, with a strong interest in Artificial Intelligence. I am also interested in and have knowledge of software testing. I'm constantly learning, trying out new technologies, and improving my skills.
+I'm a QA Automation specialist with a growing passion for software development. Self-taught and always curious, I enjoy exploring new technologies and continuously improving my skills — whether it's on the technical side or beyond.
 
-- I’m currently learning:
-  - React
-  - TypeScript
-- I’m looking forward to collaborating on open-source projects.
-- Ask me anything! I'm happy to help if it's something I know. 😉
-- Outside of tech, I love reading, painting, and drawing. I also enjoy discovering new ideas and perspectives through books, art, and technology.
+🔍 Currently working in QA Automation
+🤖 Interested in Artificial Intelligence
+🤝 Looking forward to collaborating on open-source projects
+💬 Ask me anything! Happy to help if it's something I know 😉
+🎨 Outside of tech: I love reading, painting, and drawing — always discovering new ideas through books, art, and technology
 
 ## My Skills Include
 
